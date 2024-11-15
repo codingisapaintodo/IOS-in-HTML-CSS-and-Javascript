@@ -1,0 +1,14 @@
+/ipod-touch
+    /assets
+        /images
+            - ipod-background.jpg
+            - icon-music.png
+            - icon-apps.png
+            - icon-settings.png
+            - ipod-frame.png
+    /css
+        - style.css
+    /js
+        - script.js
+        - app.ts
+    - index.php
